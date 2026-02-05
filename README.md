@@ -61,16 +61,6 @@ and basic Linux/network security configurations.
 - OpenSSL  
 - Apache Web Server  
 
----
-
-## 🎓 Academic Details
-
-- **Program:** BSc CSIT  
-- **Semester:** Fifth  
-- **Course:** Cryptography & Network Security  
-- **University:** Tribhuvan University (TU)
-
----
 
 ## 👤 Author
 
