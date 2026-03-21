@@ -1,4 +1,7 @@
-# lab5
+
+# ============================================================
+# Lab 5: Markov Chains Simulation – Weather Prediction
+# This program predicts weather states using a Markov chain,
 import numpy as np
 import matplotlib.pyplot as plt
 
